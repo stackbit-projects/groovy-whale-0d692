@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Testing Headline
     subtitle: >-
-      Lorem duarte ippnam Hashir ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Lorem duarte ippnam Hashir ipsum dolor sit amet, consectetur adipiscing
+      elit. Nullam a metus quis lorem malesuada luctus.
     actions:
       - label: Learn More
         url: /features
@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/4.png
+    image: images/beach'.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
